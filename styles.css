@@ -1,0 +1,9 @@
+/*Bootstrap css style */
+.alignment{
+    text-align-last: end;
+}
+.opacity::placeholder{
+    opacity: 0.5;
+}
+
+/*CSS build page*/ 
